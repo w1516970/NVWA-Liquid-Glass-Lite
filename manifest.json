@@ -1,0 +1,9 @@
+{
+    "display_name": "NVWA 液态玻璃 Lite",
+    "loading_order": 120,
+    "js": "index.js",
+    "css": "style.css",
+    "author": "zytteell8698",
+    "version": "1.4.2-lite1",
+    "homePage": "https://github.com/jjing8235-afk/NVWA-Liquid-Glass"
+}
